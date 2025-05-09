@@ -1,0 +1,13 @@
+﻿advertisement-chefvend-1 = Almeno il sessanta per cento delle nostre uova non rotte, garantito!
+advertisement-chefvend-2 = Riso, riso, baby.
+advertisement-chefvend-3 = Mettici sopra un po' di burro!
+advertisement-chefvend-4 = Siete degni del vostro sale? Noi lo siamo.
+advertisement-chefvend-5 = Mmm, carne.
+advertisement-chefvend-6 = Sfrutta il potere della farina.
+advertisement-chefvend-7 = Dimostrate ai vostri clienti chi è il miglior chef in circolazione con la nostra salsa BBQ premiata e famosa in tutto il mondo.
+advertisement-chefvend-8 = Adoro le vecchie uova crude.
+advertisement-chefvend-9 = Godetevi delle buone vecchie uova crude!
+thankyou-chefvend-1 = È ora di mettersi ai fornelli!
+thankyou-chefvend-2 = Grazie per la fiducia nei nostri ingredienti di qualità!
+thankyou-chefvend-3 = Questo dovrebbe dar loro ciò che desiderano!
+thankyou-chefvend-4 = Vai a fare quegli hamburger!

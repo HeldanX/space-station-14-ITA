@@ -1,0 +1,11 @@
+advertisement-magivend-1 = Lanciate incantesimi nel modo giusto con MagiVend!
+advertisement-magivend-2 = Siate i vostri propri Houdini! Usate MagiVend!
+advertisement-magivend-3 = FJKLFJSD
+advertisement-magivend-4 = AJKFLBJAKL
+advertisement-magivend-5 = >MFW
+advertisement-magivend-6 = HONK!
+advertisement-magivend-7 = EI NATH
+advertisement-magivend-8 = Distruggi la stazione!
+advertisement-magivend-9 = Hardware che piega lo spazio-tempo!
+advertisement-magivend-10 = 1234 PAZZI LOL!
+advertisement-magivend-11 = NAR'SIE, SORGA!!!

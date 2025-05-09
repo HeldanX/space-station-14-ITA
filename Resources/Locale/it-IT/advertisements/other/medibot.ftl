@@ -1,0 +1,17 @@
+advertisement-medibot-1 = Che razza di infermeria è questa? Cadono tutti come mosche morte.
+advertisement-medibot-2 = Lo sapevo, avrei dovuto fare il chirurgo plastico.
+advertisement-medibot-3 = C'è sempre una fregatura, e io sono il migliore a fregarti.
+advertisement-medibot-4 = Una mela al giorno mi tiene lontano.
+advertisement-medibot-5 = Sono diverso! Fidati!
+advertisement-medibot-6 = Vaffanculo.
+advertisement-medibot-7 = Perché siamo ancora qui? Solo per soffrire?
+advertisement-medibot-8 = Io... Non ho mai perso un paziente prima d'ora. Non oggi, intendo.
+advertisement-medibot-9 = Lexorin in arrivo.
+advertisement-medibot-10 = Buona giornata!
+advertisement-medibot-11 = Speriamo che tu non debba ritornare, quest'oggi!
+advertisement-medibot-12 = Ricordati di lavarti i denti.
+advertisement-medibot-13 = Ricordati di lavarti il culo.
+advertisement-medibot-14 = Sono qui per aiutarti!
+advertisement-medibot-15 = Chiedi un lecca-lecca al dottore!
+advertisement-medibot-16 = Guarisci presto!
+advertisement-medibot-17 = Una mela al giorno toglie il medico di torno!

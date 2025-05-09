@@ -1,0 +1,26 @@
+advertisement-block-game-1 = Dignitosamente Brillo!
+advertisement-block-game-2 = Che diavolo è un T-spin?
+advertisement-block-game-3 =  Questi blocchi non si cancellano da soli!
+advertisement-block-game-4 = Beep boop! Bwoooop!
+advertisement-block-game-5 = Facciamo un gioco!
+advertisement-block-game-6 = quanti colori petalosi nel gioco.
+advertisement-block-game-7 = Azione a 8 bit!
+advertisement-block-game-8 = Blocchi, blocchi, blocchi!
+advertisement-block-game-9 =  Pensi di poter ottenere il punteggio più alto?
+advertisement-block-game-10 = Nanotrasen Block Game è ciò che TetrISN non è!
+advertisement-block-game-11 = Ora con il blast processing!
+advertisement-block-game-12 = I nostri avvocati sono in attesa!
+advertisement-block-game-13 = Alleluia, piovono blocchi!
+
+thankyou-block-game-1 = Ritorna a giocare al più presto!
+thankyou-block-game-2 = Ben Fatto!
+thankyou-block-game-3 = Solo un'altra partita?
+thankyou-block-game-4 = Già stacchi?
+thankyou-block-game-5 = I blocchi sentiranno la tua mancanza.
+thankyou-block-game-6 = Grazie per aver giocato!
+thankyou-block-game-7 = Torna presto!
+thankyou-block-game-8 = Beep bwooop!
+thankyou-block-game-9 = C'è sempre tempo per un'altra partita!
+thankyou-block-game-10 = Non arrenderti adesso!
+thankyou-block-game-11 = Ci sono sempre più blocchi!
+thankyou-block-game-12 = I blocchi aspettano il tuo ritorno!

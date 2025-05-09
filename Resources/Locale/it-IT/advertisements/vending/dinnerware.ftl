@@ -1,0 +1,10 @@
+﻿advertisement-dinnerware-1 = Mm, cibo!
+advertisement-dinnerware-2 = Cibo e accessori per il cibo.
+advertisement-dinnerware-3 = Prendi i tuoi piatti!
+advertisement-dinnerware-4 = Ti piacciono le forchette?
+advertisement-dinnerware-5 = A me piacciono le forchette.
+advertisement-dinnerware-6 = Woo, utensili.
+advertisement-dinnerware-7 = In realtà non ne hai bisogno...
+advertisement-dinnerware-8 = Prendili se li vuoi!
+advertisement-dinnerware-9 = Sono abbastanza sicuro che i becher siano indispensabili.
+advertisement-dinnerware-10 = PERCHÉ CI SONO COSÌ TANTI TIPI DI TAZZE?

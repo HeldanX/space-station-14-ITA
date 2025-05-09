@@ -1,0 +1,15 @@
+particle-accelerator-control-menu-on-button = Acceso
+particle-accelerator-control-menu-off-button = Spento
+particle-accelerator-control-menu-service-manual-reference = Fare riferimento a p.132 del manuale di servizio
+particle-accelerator-control-menu-device-version-label = Acceleratore di Particelle Modello 2
+particle-accelerator-control-menu-power-label = Potenza:
+particle-accelerator-control-menu-strength-label = Forza:
+particle-accelerator-control-menu-alarm-control = FALLIMENTO DEL LIMITATORE DI FORZA PARTICELLARE
+particle-accelerator-control-menu-scan-parts-button = Scansiona Parti
+particle-accelerator-control-menu-check-containment-field-warning = Assicurati che il campo di contenimento sia attivo prima dell'operazione
+particle-accelerator-control-menu-foo-bar-baz = FOO-BAR-BAZ
+particle-accelerator-control-menu-status-label = Stato: {$status}
+particle-accelerator-control-menu-status-operational = Operativo
+particle-accelerator-control-menu-status-incomplete = Incompleto
+particle-accelerator-control-menu-draw-not-available = Disegno: N/D
+particle-accelerator-control-menu-draw = Disegno: {$watts}/{$lastReceive}

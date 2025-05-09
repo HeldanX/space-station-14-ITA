@@ -1,0 +1,9 @@
+﻿advertisement-sovietsoda-1 = Per il compagno e la patria.
+advertisement-sovietsoda-2 = Hai soddisfatto la tua quota di nutrizione oggi?
+advertisement-sovietsoda-3 = Molto bene!
+advertisement-sovietsoda-4 = Siamo persone semplici, perché questo è tutto ciò che mangiamo.
+advertisement-sovietsoda-5 = Se c'è una persona, c'è un problema. Se non c'è una persona, non c'è nessun problema.
+advertisement-sovietsoda-6 =  Se è abbastanza buono per la vita quotidiana, è abbastanza buono per noi!
+thankyou-sovietsoda-1 = Divertiti, compagno!
+thankyou-sovietsoda-2 = Ora torna al lavoro.
+thankyou-sovietsoda-3 = Questo è tutto quello che avrai.

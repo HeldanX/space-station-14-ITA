@@ -1,0 +1,14 @@
+advertisement-goodcleanfun-1 = Scappa in un mondo fantasy!
+advertisement-goodcleanfun-2 = Alimenta la tua dipendenza dal gioco!
+advertisement-goodcleanfun-3 = Rovina le tue amicizie!
+advertisement-goodcleanfun-4 = Tira per l'iniziativa!
+advertisement-goodcleanfun-5 = Elfi e nani!
+advertisement-goodcleanfun-6 = Computer paranoici!
+advertisement-goodcleanfun-7 = Assolutamente non satanico!
+advertisement-goodcleanfun-8 = Divertimento per sempre!
+advertisement-goodcleanfun-9 = Cripte e Carpe!
+advertisement-goodcleanfun-10 = Gioca con gli amici!
+thankyou-goodcleanfun-1 = Buon divertimento!
+thankyou-goodcleanfun-2 = Ora ci stai dando dentro!
+thankyou-goodcleanfun-3 = Vai a giocare!
+thankyou-goodcleanfun-4 = Inizia a creare le tue schede personaggio!

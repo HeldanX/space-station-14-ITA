@@ -1,0 +1,10 @@
+admin-player-actions-window-title = Pannello Azioni Giocatore
+admin-player-actions-window-ban = Pannello Ban
+admin-player-actions-window-admin-ghost = Admin Ghost
+admin-player-actions-window-teleport = Teletrasporto
+admin-player-actions-window-permissions = Pannello Permessi
+admin-player-actions-window-announce = Annunci
+admin-player-actions-window-shuttle = (Richiama) Navetta
+admin-player-actions-window-admin-logs = Log Admin
+admin-player-actions-window-admin-notes = Note Admin
+admin-player-actions-window-admin-fax = Fax Admin

@@ -1,0 +1,15 @@
+﻿advertisement-cigs-1 = Le sigarette spaziali hanno un buon sapore di nicotica. come una vera sigaretta!
+advertisement-cigs-2 = Preferisco fumarmi l'origano che rimanere senza sigarette!
+advertisement-cigs-3 = Fuma!
+advertisement-cigs-4 = Non credere ai rapporti - fuma oggi!
+advertisement-cigs-5 = Probabilmente non fa male!
+advertisement-cigs-6 = Non credere agli scienziati!
+advertisement-cigs-7 = Fa bene!
+advertisement-cigs-8 = Non smettere, compra di più!
+advertisement-cigs-9 = Paradiso della nicotina.
+advertisement-cigs-10 = Le migliori sigarette dal 2150.
+advertisement-cigs-11 = Sigarette premiate.
+advertisement-cigs-12 = Qui per alleviare lo stress del lavoro!
+thankyou-cigs-1 = Le hai, ora fumale!
+thankyou-cigs-2 = Probabilmente non te ne pentirai!
+thankyou-cigs-3 = Diventerai dipendente in poco tempo!

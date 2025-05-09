@@ -1,0 +1,14 @@
+﻿advertisement-happyhonk-1 = Honk! Honk! Perché non ordini oggi un Happy Honk Meal?
+advertisement-happyhonk-2 = I clown meritano un abbraccio, se ne vedi uno assicurati di mostrare il tuo apprezzamento.
+advertisement-happyhonk-3 = Se trovi il Golden Honker, allora prega gli dei, sei una persona fortunata.
+advertisement-happyhonk-4 = Happy Honk: è un pasto, è un affare, ha un giocattolo di plastica che ti farà urlare.
+advertisement-happyhonk-5 = Mai fidarsi dei mimi, non sono uomini di parola!
+advertisement-happyhonk-6 = Quanti ufficiali di sicurezza ci vogliono per arrestarti? Tre, uno per picchiarti a morte, uno per ammanettarti e uno per buttare il tuo corpo nel settore manutenzione.
+advertisement-happyhonk-7 = Happy Honk non è responsabile della qualità del cibo inserito nei nostri Happy Honk meal boxes.
+advertisement-happyhonk-8 = Perché non chiedere il nostro Happy Honk Meal in edizione limitata dedicato ai Clown?
+advertisement-happyhonk-9 = Happy Honk è un marchio di Honk! co. ed è nettamente superiore a Robust Nucle Food corp.
+advertisement-happyhonk-10 = I nostri Happy Honk meals sono sicuri di offrire una grande sorpresa!
+thankyou-happyhonk-1 = Honk!
+thankyou-happyhonk-2 = Honk honk!
+thankyou-happyhonk-3 = Vai e condividi il divertimento! Honk!
+thankyou-happyhonk-4 = Vai e scivola tra la gente! Honk!

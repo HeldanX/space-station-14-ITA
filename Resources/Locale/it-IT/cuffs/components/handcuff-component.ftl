@@ -1,0 +1,17 @@
+handcuff-component-target-self = Inizi a ammanettarti.
+handcuff-component-cuffs-broken-error = Le manette sono rotte!
+handcuff-component-target-has-no-hands-error = {$targetName} non hai mani disponibili.
+handcuff-component-target-has-no-free-hands-error = {$targetName} non ha mani libere!
+handcuff-component-too-far-away-error = Sei troppo lontano per usare le manette!
+handcuff-component-start-cuffing-observer = {$user} inizia a ammanettare {$target}!
+handcuff-component-start-cuffing-target-message = Inizi a ammanettare {$targetName}.
+handcuff-component-start-cuffing-by-other-message = {$otherName} inizia a ammanettarti!
+handcuff-component-cuff-observer-success-message = {$user} ha ammanettato {$target}.
+handcuff-component-cuff-other-success-message = Hai ammanettato con successo {$otherName}.
+handcuff-component-cuff-by-other-success-message = Sei stato ammanettato da {$otherName}!
+handcuff-component-cuff-self-success-message = Ti sei ammanettato.
+handcuff-component-cuff-interrupt-message = Sei stato interrotto mentre stavi ammanettando {$targetName}!
+handcuff-component-cuff-interrupt-other-message = Hai interrotto {$otherName} mentre ti stava ammanettando!
+handcuff-component-cuff-interrupt-self-message = Sei stato interrotto mentre ti stavi ammanettando.
+handcuff-component-cuff-interrupt-buckled-message = Non puoi allacciare mentre sei in manette!
+handcuff-component-cuff-interrupt-unbuckled-message = Non puoi slacciarti mentre sei in manette!

@@ -1,0 +1,11 @@
+metabolizer-type-animal = Animale
+metabolizer-type-bloodsucker = Succhiasangue
+metabolizer-type-dragon = Drago
+metabolizer-type-human = Essere umano
+metabolizer-type-slime = Melma
+metabolizer-type-vox = Vox
+metabolizer-type-rat = Topo
+metabolizer-type-plant = Pianta
+metabolizer-type-dwarf = Nano
+metabolizer-type-moth = Falena
+metabolizer-type-arachnid = Aracnide

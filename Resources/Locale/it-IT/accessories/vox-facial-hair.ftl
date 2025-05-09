@@ -1,0 +1,5 @@
+marking-VoxFacialHairBeard = Barba Vox (Quills)
+marking-VoxFacialHairColonel = Baffi Vox (Colonel)
+marking-VoxFacialHairFu = Baffi Vox (Quill Fu)
+marking-VoxFacialHairNeck = Barba Vox (Quills al Collo)
+marking-VoxFacialHairMane = Barba Vox (Criniera)

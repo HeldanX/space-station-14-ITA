@@ -1,0 +1,9 @@
+﻿advertisement-donut-1 = Ognuno di noi è un piccolo poliziotto!
+advertisement-donut-2 = Speriamo che tu abbia fame!
+advertisement-donut-3 = Più di un milione di ciambelle vendute!
+advertisement-donut-4 = Siamo orgogliosi della consistenza dei nostri prodotti!
+advertisement-donut-5 = Dolci, zuccherati e deliziosi!
+thankyou-donut-1 = Goditi la tua ciambella!
+thankyou-donut-2 = Un'altra ciambella venduta!
+thankyou-donut-3 = Buona giornata, agente!
+thankyou-donut-4 = Spero che ti crei dipendenza!

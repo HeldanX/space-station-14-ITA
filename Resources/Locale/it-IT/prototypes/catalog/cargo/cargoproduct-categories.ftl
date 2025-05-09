@@ -1,0 +1,16 @@
+cargoproduct-category-name-armory = Armeria
+cargoproduct-category-name-atmospherics = Atmosferica
+cargoproduct-category-name-cargo = Carico
+cargoproduct-category-name-circuitboards = Circuiti Stampati
+cargoproduct-category-name-emergency = Emergenza
+cargoproduct-category-name-engineering = Ingegneria
+cargoproduct-category-name-food = Cibo
+cargoproduct-category-name-fun = Divertimento
+cargoproduct-category-name-hydroponics = Idroponica
+cargoproduct-category-name-livestock = Bestiame
+cargoproduct-category-name-materials = Materiali
+cargoproduct-category-name-medical = Medico
+cargoproduct-category-name-science = Scienza
+cargoproduct-category-name-security = Sicurezza
+cargoproduct-category-name-service = Servizio
+cargoproduct-category-name-shuttle = Shuttle

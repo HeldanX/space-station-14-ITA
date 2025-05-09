@@ -1,0 +1,22 @@
+permissions-eui-do-not-have-required-flags-to-edit-admin-tooltip = Non hai i permessi necessari per modificare questo admin.
+permissions-eui-do-not-have-required-flags-to-edit-rank-tooltip = Non hai i permessi necessari per modificare questo rango.
+
+permissions-eui-menu-title = Pannello Permessi
+permissions-eui-menu-add-admin-button = Aggiungi Admin
+permissions-eui-menu-add-admin-rank-button = Aggiungi Rango Admin
+permissions-eui-menu-save-admin-rank-button = Salva
+permissions-eui-menu-remove-admin-rank-button = Rimuovi
+permissions-eui-menu-admins-tab-title = Admins
+permissions-eui-menu-admin-ranks-tab-title = Ranghi Admin
+permissions-eui-edit-admin-window-edit-admin-label = Modifica admin {$admin}
+permissions-eui-edit-admin-window-name-edit-placeholder = Nome utente/User ID
+permissions-eui-edit-admin-window-title-edit-placeholder = Titolo personalizzato, lascia vuoto per ereditare il titolo del rango.
+permissions-eui-edit-admin-window-no-rank-button = Nessun rango
+permissions-eui-edit-admin-rank-window-name-edit-placeholder = Nome del rango
+permissions-eui-edit-admin-title-control-text = nessuno
+permissions-eui-edit-no-rank-text = nessuno
+permissions-eui-edit-title-button = Modifica
+permissions-eui-edit-admin-rank-button = Modifica
+permissions-eui-edit-admin-rank-window-title = Modifica Rango Admin
+permissions-eui-edit-admin-window-save-button = Salva
+permissions-eui-edit-admin-window-remove-flag-button = Rimuovi

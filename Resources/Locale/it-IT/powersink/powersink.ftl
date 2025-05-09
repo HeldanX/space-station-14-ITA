@@ -1,0 +1,2 @@
+powersink-examine-drain-amount = Il dissipatore di energia sta estraendo [color={$markupDrainColor}]{$amount} kW[/color].
+powersink-immiment-explosion-announcement = Le scansioni del sistema hanno rilevato che un dispositivo di consumo di energia non autorizzato sta diventando instabile. Il personale è invitato a localizzare e disconnettere immediatamente questo dispositivo per evitare danni alla stazione.

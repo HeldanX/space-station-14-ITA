@@ -1,0 +1,23 @@
+﻿advertisement-boozeomat-1 = Spero che nessuno mi chieda una dannata tazza di tè...
+advertisement-boozeomat-2 = L'alcol è amico dell'umanità. Abbandoneresti un amico?
+advertisement-boozeomat-3 = Sono lieto di servirla!
+advertisement-boozeomat-4 = Nessuno ha sete in questa stazione?
+advertisement-boozeomat-5 = Alla salute!
+advertisement-boozeomat-6 = L'alcol fa bene!
+advertisement-boozeomat-7 = L'alcol è il migliore amico dell'umanità.
+advertisement-boozeomat-8 = Ti va una bella birra fresca?
+advertisement-boozeomat-9 = Niente ti cura come l'alcol!
+advertisement-boozeomat-10 = Bevi un sorso!
+advertisement-boozeomat-11 = Bevi un bicchiere!
+advertisement-boozeomat-12 = Bevi una birra!
+advertisement-boozeomat-13 = La birra fa bene!
+advertisement-boozeomat-14 = Solo il miglior alcolico!
+advertisement-boozeomat-15 = La migliore qualità di alcolici dal 2053!
+advertisement-boozeomat-16 = Vino pluripremiato!
+advertisement-boozeomat-17 = Il massimo dell'alcol!
+advertisement-boozeomat-18 = L'uomo ama la birra.
+advertisement-boozeomat-19 = Un brindisi per il progresso!
+thankyou-boozeomat-1 = Si prega di bere responsabilmente!
+thankyou-boozeomat-2 = Si prega di bere in modo non responsabile!
+thankyou-boozeomat-3 = Per favore, godetevi il vostro drink!
+

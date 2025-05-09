@@ -1,0 +1,9 @@
+﻿advertisement-nutrimax-1 = Amiamo le piante!
+advertisement-nutrimax-2 = Non ne vuoi?
+advertisement-nutrimax-3 = I pollici verdi più verdi di sempre.
+advertisement-nutrimax-4 = Amiamo le piante grandi.
+advertisement-nutrimax-5 = Terreno morbido...
+advertisement-nutrimax-6 = Secchi inclusi!
+advertisement-nutrimax-7 = Più grande è la pianta, meglio è!
+thankyou-nutrimax-1 = Mettiti a piantare!
+thankyou-nutrimax-2 = Gioca con un po' di terra!

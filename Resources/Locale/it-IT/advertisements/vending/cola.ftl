@@ -1,0 +1,12 @@
+﻿advertisement-cola-1 = Rinfrescante!
+advertisement-cola-2 = Spero che tu abbia sete!
+advertisement-cola-3 = Oltre 1 milione di bevande vendute!
+advertisement-cola-4 = Assetato? Perché non una cola?
+advertisement-cola-5 = Prego, bevi qualcosa!
+advertisement-cola-6 = Bevilo tutto!
+advertisement-cola-7 = Le migliori bevande della galassia!
+advertisement-cola-8 = Molto meglio del Dr. Gibb!
+thankyou-cola-1 = Apri quella lattina e goditela!
+thankyou-cola-2 = Pow! Prendi questo, bevi!
+thankyou-cola-3 = Spero che ti piaccia il sapore!
+thankyou-cola-4 = Goditi la tua bevanda piena di zucchero!
